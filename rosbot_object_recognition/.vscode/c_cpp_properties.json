@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nuctella/my_ros2_ws/install/vehicle_base/include/**",
+        "/home/nuctella/my_ros2_ws/install/publisher_library/include/**",
+        "/home/nuctella/my_ros2_ws/install/publisher_and_subscriber/include/**",
+        "/home/nuctella/my_ros2_ws/install/custom_msg_and_srv/include/**",
+        "/home/nuctella/my_ros2_ws/install/custom_action/include/**",
+        "/home/nuctella/my_ros2_ws/install/core/include/**",
+        "/home/nuctella/ros2_ws/ws/install/rosbot_hardware_interfaces/include/**",
+        "/home/nuctella/ros2_ws/ws/install/mecanum_drive_controller/include/**",
+        "/home/nuctella/ros2_ws/deps/install/micro_ros_agent/include/**",
+        "/home/nuctella/ros2_ws/deps/install/micro_ros_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/nuctella/my_ros2_ws/src/ROS2_learning/CPP/create_library_with_header/publisher_library/include/**",
+        "/home/nuctella/my_ros2_ws/src/ROS2_learning/CPP/dynamic_tf2_publisher/include/**",
+        "/home/nuctella/my_ros2_ws/src/ROS2_learning/CPP/plugins/vehicle_base/include/**",
+        "/home/nuctella/my_ros2_ws/src/core/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

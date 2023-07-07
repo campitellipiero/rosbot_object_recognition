@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/nuctella/my_ros2_ws/build/start_with_simple_nodes_py",
+        "/home/nuctella/my_ros2_ws/install/start_with_simple_nodes_py/lib/python3.10/site-packages",
+        "/home/nuctella/my_ros2_ws/build/rosbot_object_recognition",
+        "/home/nuctella/my_ros2_ws/install/rosbot_object_recognition/lib/python3.10/site-packages",
+        "/home/nuctella/my_ros2_ws/build/publisher_and_subscriber_py",
+        "/home/nuctella/my_ros2_ws/install/publisher_and_subscriber_py/lib/python3.10/site-packages",
+        "/home/nuctella/my_ros2_ws/install/publisher_and_subscriber/local/lib/python3.10/dist-packages",
+        "/home/nuctella/my_ros2_ws/install/custom_msg_and_srv/local/lib/python3.10/dist-packages",
+        "/home/nuctella/my_ros2_ws/install/custom_action/local/lib/python3.10/dist-packages",
+        "/home/nuctella/my_ros2_ws/install/core/local/lib/python3.10/dist-packages",
+        "/home/nuctella/ros2_ws/deps/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/nuctella/my_ros2_ws/build/start_with_simple_nodes_py",
+        "/home/nuctella/my_ros2_ws/install/start_with_simple_nodes_py/lib/python3.10/site-packages",
+        "/home/nuctella/my_ros2_ws/build/rosbot_object_recognition",
+        "/home/nuctella/my_ros2_ws/install/rosbot_object_recognition/lib/python3.10/site-packages",
+        "/home/nuctella/my_ros2_ws/build/publisher_and_subscriber_py",
+        "/home/nuctella/my_ros2_ws/install/publisher_and_subscriber_py/lib/python3.10/site-packages",
+        "/home/nuctella/my_ros2_ws/install/publisher_and_subscriber/local/lib/python3.10/dist-packages",
+        "/home/nuctella/my_ros2_ws/install/custom_msg_and_srv/local/lib/python3.10/dist-packages",
+        "/home/nuctella/my_ros2_ws/install/custom_action/local/lib/python3.10/dist-packages",
+        "/home/nuctella/my_ros2_ws/install/core/local/lib/python3.10/dist-packages",
+        "/home/nuctella/ros2_ws/deps/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
